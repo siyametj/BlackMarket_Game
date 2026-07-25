@@ -21,3 +21,7 @@ A text-based text adventure suite featuring criminal risk engine games, dynamic 
 2. Run the program using Python 3:
    ```bash
    python main.py
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
