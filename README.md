@@ -24,4 +24,4 @@ A text-based text adventure suite featuring criminal risk engine games, dynamic 
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the terms of the [MIT License](LICENSE) - see the [MIT License](LICENSE)  file for details..
